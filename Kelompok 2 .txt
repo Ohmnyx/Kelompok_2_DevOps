@@ -10,4 +10,4 @@ Ide :
 3. Fitur Profil Pengguna: Memungkinkan pengguna untuk membuat profil pribadi dengan informasi kendaraan dan preferensi layanan untuk pengalaman yang lebih terpersonalisasi
 
 Link Github :
-git@github.com:Ohmnyx/Kelompok_2_DevOps.git
+https://github.com/Ohmnyx/Kelompok_2_DevOps
