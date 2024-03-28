@@ -1,0 +1,13 @@
+Kelompok 2 :
+1. Fandy Sulthan A. (ketua)
+2. Adzro Rusyaidah S. (programmer)
+3. Bintang Marwan p.p. (programmer)
+4. Putri Anggiyarani (Manager)
+
+Ide :
+1. Fitur Ketersediaan Layanan: Menampilkan status ketersediaan penambal ban (tersedia atau tidak tersedia) untuk mempermudah pengguna dalam mendapatkan layanan.
+2. Fitur Pembayaran Online: Integrasi dengan sistem pembayaran online untuk memudahkan pengguna dalam membayar jasa tambal ban secara langsung melalui aplikasi
+3. Fitur Profil Pengguna: Memungkinkan pengguna untuk membuat profil pribadi dengan informasi kendaraan dan preferensi layanan untuk pengalaman yang lebih terpersonalisasi
+
+Link Github :
+git@github.com:Ohmnyx/Kelompok_2_DevOps.git
